@@ -1,4 +1,6 @@
-# Вдохновитель: https://www.youtube.com/watch?v=zlWiw99bBUk
+# Автор кода: Олег Молчанов
+# Ссылка на код: https://www.youtube.com/watch?v=zlWiw99bBUk
+# Код размещен, в целях - саммому не забыть =)
 
 import requests
 from bs4 import BeautifulSoup
